@@ -1,0 +1,15 @@
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.exe
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.deps.json
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.runtimeconfig.json
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.dll
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\bin\Debug\net10.0\EvidencijaStudenata.pdb
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.AssemblyInfoInputs.cache
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.AssemblyInfo.cs
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.sourcelink.json
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.dll
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\refint\EvidencijaStudenata.dll
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.pdb
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\EvidencijaStudenata.genruntimeconfig.cache
+C:\Users\marko\OneDrive\Desktop\Skola\Evo\EvidencijaStudenata\obj\Debug\net10.0\ref\EvidencijaStudenata.dll
